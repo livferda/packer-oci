@@ -5,6 +5,6 @@
 "my.availability_domain": "izTC:US-ASHBURN-AD-1",
 "my.region": "us-ashburn-1",
 "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaa624kbterxep7l4v26hehmvcnpb533aj4nokf4r7dp6qek4tsh33a",
-"my.subnet_ocid": "pasteYourSubnetsOCID",
+"my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaa2fvoz6hzuyinxt3ahgd6t6wae5m3offkpgrhj7qi3ofsivohl4yq",
 "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaamoajldhwrmbzx7s4xnrajj5b7nfrnutuebgwne4bxc7vpiap3gga"
 }
